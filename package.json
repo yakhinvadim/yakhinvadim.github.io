@@ -1,0 +1,19 @@
+{
+  "name": "yakhinvadim.com",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Its okay, its fine\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakhinvadim/yakhinvadim.github.io.git"
+  },
+  "author": "Vadim Yakhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yakhinvadim/yakhinvadim.github.io/issues"
+  },
+  "homepage": "https://github.com/yakhinvadim/yakhinvadim.github.io#readme"
+}
